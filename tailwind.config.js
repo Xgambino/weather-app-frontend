@@ -7,6 +7,7 @@ module.exports = {
     "./components/**/*.{ts,tsx}",
     "./pages/**/*.{ts,tsx}",
   ],
+  darkMode: 'class', 
   theme: {
     extend: {},
   },
